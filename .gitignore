@@ -1,9 +1,9 @@
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/Assets/AssetStoreTools*
+Procedural Cave Generation/[Ll]ibrary/
+Procedural Cave Generation/[Tt]emp/
+Procedural Cave Generation/[Oo]bj/
+Procedural Cave Generation/[Bb]uild/
+Procedural Cave Generation/[Bb]uilds/
+Procedural Cave Generation/Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
 /.vs/
